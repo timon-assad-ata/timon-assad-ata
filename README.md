@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Temon Assad</h1>
-<h3 align="center">Flutter Developer from Egypt 🇪🇬</h3>
+<h3 align="center">Flutter Developer | Mobile App Developer from Egypt 🇪🇬</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Mobile+App+Developer;Computer+Science+Student;Always+Learning+New+Things&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Mobile+App+Developer;Computer+Science+Student;Building+Beautiful+Apps;Learning+New+Technologies&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 📱 Flutter Mobile App Developer
+* 📱 Flutter Developer
 * 🎓 Computer Science Student
 * 💡 Passionate about Mobile Development
 * 🎨 Graphic Designer & Photographer
-* 🚀 Love building useful apps
+* 🚀 Building useful apps with Flutter
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
@@ -27,7 +27,17 @@
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 Flutter Skills
+
+Flutter UI Development ⭐⭐⭐⭐
+State Management ⭐⭐⭐
+Firebase Integration ⭐⭐⭐⭐
+REST API ⭐⭐⭐
+App Deployment ⭐⭐⭐
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -39,37 +49,38 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-## 📱 Featured Projects
+# 📱 Flutter Projects
 
-🚀 Coming Soon...
+🚀 Some apps I build with Flutter:
 
-* Flutter Apps
+* E-commerce Mobile App
+* Chat Application
 * Firebase Apps
-* UI / UX Projects
+* Productivity Apps
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -79,7 +90,7 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -87,8 +98,15 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
+<a href="https://wa.me/201018967569">
+<img src="https://skillicons.dev/icons?i=whatsapp"/>
+</a>
+
 </p>
+
+📞 Phone: **01018967569**
+💬 WhatsApp: **https://wa.me/201018967569**
 
 ---
 
-⭐ If you like my projects, don't forget to follow me!
+⭐ Follow me if you like my work!
